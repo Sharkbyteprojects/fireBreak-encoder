@@ -1,4 +1,5 @@
 #include "firebreak.h"
+#include <cstring>
 
 #define fb firebreak::firebreakBool
 

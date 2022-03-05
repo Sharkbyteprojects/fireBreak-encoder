@@ -1,6 +1,7 @@
 ﻿#include <iostream>
 #include <firebreak.h>
 #include <fstream>
+#include <cstring>
 
 using namespace std;
 #define s 9002
